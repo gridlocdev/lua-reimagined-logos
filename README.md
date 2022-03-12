@@ -10,6 +10,20 @@ This repository contains a few re-imagined Lua logos (just for fun) and some der
 >
 > Feel free to reach out if you've got any questions or if you're interested in using these or an alteration of these for your project!
 
+After some peer review, I've created a second icon that some people may prefer (which contains a smaller outline for the moon in the top right). This alternative style helps with visualizing the smaller top-righted portion as a separate object, but loses some of its faux-3d-ness.
+
+## Style 1
+
+![Lua logo (Style 1)](Lua%20Logos%20Idea.png)
+
+![Other lua language flavor logos (Style 1)](Lua%20Logo%20Flavors%20Idea.png)
+
+## Style 2:
+
+![Lua logo (Style 2)](Lua%20Logos%20Idea%202.png)
+
+![Other lua language flavor logos (Style 2)](Lua%20Logo%20Flavors%20Idea%202.png)
+
 ## Logo Description
 
 This logo conveys two circular moons, where one smaller one eclipses the other one by sitting in the front.
