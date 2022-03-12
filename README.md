@@ -18,7 +18,7 @@ After some peer review, I've created a second icon that some people may prefer (
 
 ![Other lua language flavor logos (Style 1)](Lua%20Logo%20Flavors%20Idea.png)
 
-## Style 2:
+## Style 2
 
 ![Lua logo (Style 2)](Lua%20Logos%20Idea%202.png)
 
@@ -28,7 +28,13 @@ After some peer review, I've created a second icon that some people may prefer (
 
 This logo conveys two circular moons, where one smaller one eclipses the other one by sitting in the front.
 
-It attempts to convey the external moon orbiting in a different way than the original's dotted orbit line through perceived distance and a sort of faux-3D using heavy cel-like shading.
+It attempts to convey the external moon orbiting in a different way than the original's dotted orbit line using perceived distance and a sort of faux-3D using heavy cel-like shading.
+
+Here's an altered version to show that concept in detail:
+
+![Faux-3D Explanation Logo](Lua%20Logo%20Explained.png)
+
+> The top-right shape represents a moon orbiting in front of the other moon.
 
 ## Design Philosophy
 
