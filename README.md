@@ -1,6 +1,6 @@
 # lua-reimagined-logos
 
-This repository contains a few re-imagined Lua logos (just for fun) and some derivatives of that logo for the two most popular language flavors (that I know of).
+This repository contains a few re-imagined Lua logos I created just for fun, and some derivatives of that logo for the two most popular language flavors that I know of.
 
 > If you are one of the folks on the core or branding teams for any of the logos I did stuff with here:
 >
